@@ -1,5 +1,11 @@
-# 💫 About Me:
-     I'm Selvamani M<br><br>🎓 B.Sc Mathematics graduate — strong analytical & logical thinking<br><br>📘 Currently pursuing M.Sc Data Science<br><br>🎯 Aspiring Data Analyst with interest in insights & decision-making<br><br>🌱 Continuous learner — always improving & evolving<br><br>💡 Believe in clarity, accessibility, design & performance<br><br>🚀 Open to collaboration and meaningful project building
+### 👩‍💻 About Me
+
+🎓 B.Sc Mathematics graduate — strong analytical & logical thinking  
+📘 Currently pursuing M.Sc Data Science  
+🎯 Aspiring Data Analyst with interest in insights & decision-making  
+🪴 Continuous learner — always improving & evolving  
+💡 Believe in clarity, accessibility, design & performance  
+🚀 Open to collaboration and meaningful project building  
 
 
 ## 🌐 Socials:
